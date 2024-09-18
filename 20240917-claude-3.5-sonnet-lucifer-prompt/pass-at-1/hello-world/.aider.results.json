@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/hello-world",
+    "testcase": "hello-world",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.011363850000000002,
+    "duration": 9.495705842971802,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "4aad5c87b6d6162e778c27a6bbfd72981082b0c9",
+            "8655853bf527af24714b579a9fbc7573f9e2e11c"
+        ]
+    ]
+}

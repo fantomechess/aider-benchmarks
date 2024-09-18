@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/simple-cipher",
+    "testcase": "simple-cipher",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.028162350000000003,
+    "duration": 21.527019023895264,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "3a8f57ff1e41f35697290d6d219e5a07b8c4bf98",
+            "f33cd35488aef1c9831190c8e53c4a274c9b921e"
+        ]
+    ]
+}

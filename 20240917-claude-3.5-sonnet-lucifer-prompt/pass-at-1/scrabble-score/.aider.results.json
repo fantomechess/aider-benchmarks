@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/scrabble-score",
+    "testcase": "scrabble-score",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.0191136,
+    "duration": 14.913608312606812,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e3741eb5b027b68fcf12173d23805e6bf6766ffa",
+            "c2f73d7684b5931ee8adca418e09d1460c550300"
+        ]
+    ]
+}

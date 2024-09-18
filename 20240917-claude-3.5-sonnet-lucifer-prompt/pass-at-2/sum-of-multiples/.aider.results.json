@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/sum-of-multiples",
+    "testcase": "sum-of-multiples",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0456717,
+    "duration": 29.557430028915405,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "578183ddc33033b907f4d546aa70fff20e3d0b6d",
+            "1179106318adca117dbf28c075f4c0b539b60fda"
+        ],
+        [
+            "924a30197b928eb00da6ce415beaa38cca427423",
+            "24befe1f22437294f1fe32340bbbca777c7c11df"
+        ]
+    ]
+}

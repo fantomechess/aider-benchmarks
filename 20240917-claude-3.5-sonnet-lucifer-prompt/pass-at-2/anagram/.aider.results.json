@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/anagram",
+    "testcase": "anagram",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.050498699999999994,
+    "duration": 34.928953647613525,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "7995bfa0cacda7c8e16911dcc809700e1052d0ff",
+            "d54d2d78802ed4847cf5e30b444963410203a1be"
+        ],
+        [
+            "2ba0ba1ce42b980ef9524a76059c796e479525df",
+            "3c6e0a958bf0ef1f820f43fb022fcbd17b57aa6e"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/phone-number",
+    "testcase": "phone-number",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.056309700000000004,
+    "duration": 42.84170198440552,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "64540a73201431e0e605fadcad7bcc3c57169b36",
+            "a494e601c9dce623c855203df898d47a666e02a4"
+        ],
+        [
+            "523232dc54794fddf8c16d21371a79b8f61ed2dd",
+            "4f7093a81537d4ea6c482cd6d6e53d806f13344e"
+        ]
+    ]
+}

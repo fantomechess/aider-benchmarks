@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/knapsack",
+    "testcase": "knapsack",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.05325345000000001,
+    "duration": 30.9909987449646,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "57b6ad23c6c2ce9ddbc8a1449b4b40e704c51769",
+            "146cf8f6f87ef1ece7e39b49a0d5a94b45438e49"
+        ],
+        [
+            "82c0f312b43ca1fd34c34f9dde3858fa98438054",
+            "3c14f0f130fef9c3dd3dcf1b68186a4639575693"
+        ]
+    ]
+}

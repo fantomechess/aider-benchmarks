@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/nth-prime",
+    "testcase": "nth-prime",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.0181551,
+    "duration": 13.735026836395264,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d5b6fd3a8dfac05deee72cba557304a5b5ec14f0",
+            "2f84795eb7ae61df50289ce96c507052d1a073dd"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/dnd-character",
+    "testcase": "dnd-character",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.04107945,
+    "duration": 24.6953022480011,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "9460b573d52c98d09f67b95c80221f2a1499904f",
+            "d9946870e0d7f5c838c61e85b21dd3df9752a95d"
+        ],
+        [
+            "f7ac66f0ba4b7e2880bce8c903f19c985876af2c",
+            "adb65f37192aac0c662b65f57d242a965f8bccbd"
+        ]
+    ]
+}

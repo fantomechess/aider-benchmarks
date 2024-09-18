@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/book-store",
+    "testcase": "book-store",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.060063450000000004,
+    "duration": 41.690248250961304,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "34f3d2cdc9cd750313ea8ec8abc77d51a109212d",
+            "65ec597cb07c4dff8913bdec3c35636e65e632da"
+        ],
+        [
+            "845021dee155826d46ddf07979b353da2c5cbb07",
+            "1719b826e4372c9dfe5857d5a2b5c3b085fb5de7"
+        ]
+    ]
+}

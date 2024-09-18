@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/poker",
+    "testcase": "poker",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.046242450000000004,
+    "duration": 28.878860473632812,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "78ef32c1732d345052dcfa2a2505565274c96773",
+            "86abb5a759ddfb246766561448cd9666f1f57b2b"
+        ],
+        [
+            "cc69518a011251ae40ada3ab274769a67f6d6d36",
+            "856c8b7b52431ecbf59078a799b96cd151b9d41b"
+        ]
+    ]
+}

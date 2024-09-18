@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/circular-buffer",
+    "testcase": "circular-buffer",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0740877,
+    "duration": 54.1584575176239,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "1e4e63dec94b9bb3bcba393b98307ae559246683",
+            "96d7e765edd4c6a52f9683d40df04d287ce751fa"
+        ],
+        [
+            "61f3bdb66b61dfddb10f55c5596479673e2d70a3",
+            "3540b7953043ea7f40618e6154fb98f214d23ed3"
+        ]
+    ]
+}

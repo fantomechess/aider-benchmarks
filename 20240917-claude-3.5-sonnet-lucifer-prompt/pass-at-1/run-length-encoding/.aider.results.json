@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/run-length-encoding",
+    "testcase": "run-length-encoding",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.02152035,
+    "duration": 16.38327670097351,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "a8bed7dc3d43bc57d7a5e8ea3815e77a7477cdb4",
+            "08501f13d3cd3c96667d1cbdfdfd4f05713640f3"
+        ]
+    ]
+}

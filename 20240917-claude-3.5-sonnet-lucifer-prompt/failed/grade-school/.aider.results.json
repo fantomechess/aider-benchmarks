@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/grade-school",
+    "testcase": "grade-school",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0441642,
+    "duration": 27.456790685653687,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "6717ea4eeac8cb63f8a7ff95f62a89d01fee9b32",
+            "db1e0b263b5c1f84af4845fad07fd3ccdd074441"
+        ],
+        [
+            "ab4ad0a6e58b7b7d49509794b64f5e6f7fd20575",
+            "3421c160c4735899e6ea1262414a1935e149b3fe"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/scale-generator",
+    "testcase": "scale-generator",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0648387,
+    "duration": 46.21947169303894,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "f17c8893e04ded56c06a3b90432f549632be2dfc",
+            "1c3b40189599b351f8fd2efa1c5806107df6cc8e"
+        ],
+        [
+            "19ac2200247d01a3f7abd27558f604b35af72db3",
+            "f55b426aecea6e253b9aebe65588b0c770fb35ac"
+        ]
+    ]
+}

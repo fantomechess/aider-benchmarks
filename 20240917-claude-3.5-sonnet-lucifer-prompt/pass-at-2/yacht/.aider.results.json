@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/yacht",
+    "testcase": "yacht",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0580122,
+    "duration": 41.8947548866272,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "9a3d17632f108f99f64c4858c4d2b044a6df8c1e",
+            "c4005741ebdad29d406062ece310565d66ed92b1"
+        ],
+        [
+            "9a5582f9f3e468f0041627e81a071dfdd33424b3",
+            "3446272db6c48724327031baa98bd18f51624688"
+        ]
+    ]
+}

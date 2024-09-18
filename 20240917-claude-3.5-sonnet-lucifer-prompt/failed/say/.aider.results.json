@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/say",
+    "testcase": "say",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.04824645,
+    "duration": 36.064507246017456,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e5078a50239166ffd3a7fb882086042b8ba637e9",
+            "2dc5449ed00161486d44303123ac19af1698cb7e"
+        ],
+        [
+            "cb1bcf56ef7a4c5ec2fc7fac65a17a916dbdcfd8",
+            "433b9bbc576acb827fea4dfc3bc437c3bb80c698"
+        ]
+    ]
+}

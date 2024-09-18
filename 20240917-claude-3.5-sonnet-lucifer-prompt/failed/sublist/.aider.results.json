@@ -1,0 +1,43 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/sublist",
+    "testcase": "sublist",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.1308705,
+    "duration": 80.8714280128479,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 4,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 4,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "2588beaea6d041f240179b5cf95c72c343abb146",
+            "8b9e77c07335d6dabb50b7728ca7a116be3cc3a7"
+        ],
+        [
+            "8f369d89379b3a7dbe2b366ad21ac18f4f016f03",
+            "82f3b4bd394904c6168765bf8f2684d393cd7eb6"
+        ],
+        [
+            "2a3b627da14ede6909f732ba840ee86f7bdeda95",
+            "d0682a80b6bba64976613b95815a70eb60081ea6"
+        ],
+        [
+            "5b9008e117c942d85401077c3740c5da8740d61e",
+            "d387a5d3c826ba05f4adf225c7c69c09738d537d"
+        ],
+        [
+            "354ae481c9182645c60c696b85a6da32bed1dc89",
+            "7cbf1f633231477756ffd48341ffe5a34a98fd37"
+        ]
+    ]
+}

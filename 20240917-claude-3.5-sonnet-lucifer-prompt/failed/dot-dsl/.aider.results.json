@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/dot-dsl",
+    "testcase": "dot-dsl",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0596772,
+    "duration": 33.61870551109314,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "72082139ea1330f688a444ea96d08808c4955f5f",
+            "aae102af2e5320358cc96116caed7f0f0ca906b6"
+        ],
+        [
+            "5e84de32716640803295ab00a724bd0eae0a258f",
+            "54186df7458ff4b12b52b35e1330edc887a3b653"
+        ]
+    ]
+}

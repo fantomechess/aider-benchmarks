@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/grains",
+    "testcase": "grains",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0446937,
+    "duration": 29.933253288269043,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "070f48619ec7dc874f7dc0319cb4d3583fc16b7e",
+            "77e9551a6c9ae7e0039a31a8cdf87a0c2925a557"
+        ],
+        [
+            "1a6ce486258b6a2ed05ad7b5f5be6999527a9ed0",
+            "bae9e52fd9d0bffc752fd276ac9944a8f117a2c2"
+        ]
+    ]
+}

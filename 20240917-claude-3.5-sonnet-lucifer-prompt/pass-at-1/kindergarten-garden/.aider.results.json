@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/kindergarten-garden",
+    "testcase": "kindergarten-garden",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.023434350000000003,
+    "duration": 16.889641046524048,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "03bbb6c6cc9b543b2db2bab87f5b4caea111fbc4",
+            "a5e37982bf1dad0251b223b1c4294c25ccd3ff06"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/bowling",
+    "testcase": "bowling",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0661107,
+    "duration": 49.26775670051575,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "2aa7a4f8197f23fef36fe96fe33d4bc8b848a2db",
+            "729de112b066e08a62ddfbf5d0785383308bfc75"
+        ],
+        [
+            "00112b9dc5be2ebf05d497b8ee5a5ba26671acd3",
+            "ebe2defdb6d0086677acbf97f2374434c6d8d959"
+        ]
+    ]
+}

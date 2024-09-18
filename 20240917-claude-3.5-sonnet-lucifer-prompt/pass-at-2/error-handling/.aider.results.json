@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/error-handling",
+    "testcase": "error-handling",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0460512,
+    "duration": 29.83018398284912,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "706210f44cfc312b1c9185e396811c2662d27663",
+            "593e2f5fde7092c12918fc384478470a86c89a8b"
+        ],
+        [
+            "d68424a2be00d67133654bff14d38a6bc02d71c5",
+            "6e7b8e25b7924befcf13c81e3ee4451f8e6b098e"
+        ]
+    ]
+}

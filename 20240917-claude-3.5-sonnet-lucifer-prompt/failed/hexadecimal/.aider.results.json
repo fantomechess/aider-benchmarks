@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-00-34-01--claude-sonnet-test/hexadecimal",
+    "testcase": "hexadecimal",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.046839450000000005,
+    "duration": 30.464812755584717,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "dde1dc25409e3ab0aa713da89d2423f0025b262e",
+            "e6e3f78c584bfc9f745e04cc0e05f8b1aa04e53c"
+        ],
+        [
+            "4fdbafd96aadc5eb667498f0f72a154811fb0887",
+            "979ba5b4460daf0d35f716bf55b2763c42b7b7dc"
+        ]
+    ]
+}
