@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/armstrong-numbers",
+    "testcase": "armstrong-numbers",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.0159324,
+    "duration": 11.271310329437256,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "1eaac1222934d71d63071f755f82cdf9c99a32bb",
+            "4e7239e416b0e03b0623959d07386332929fb01e"
+        ]
+    ]
+}

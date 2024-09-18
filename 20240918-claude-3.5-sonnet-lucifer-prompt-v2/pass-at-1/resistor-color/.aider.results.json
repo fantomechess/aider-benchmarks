@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/resistor-color",
+    "testcase": "resistor-color",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.012492900000000001,
+    "duration": 8.492600917816162,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e651eca661b84d637b80b3e0981ad269c6880f5e",
+            "21bc1babdd7bc5c7457a8fdaf4f0df240897fc19"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/octal",
+    "testcase": "octal",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0357723,
+    "duration": 21.642531394958496,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "f97b2e9009739a85f61d0ca6ca30cfe80632cf1c",
+            "0c5ca7d6e3c8365587934ae118895fdd1932b0b6"
+        ],
+        [
+            "71ba9524e503ddb5d44f4fdc2817e7c84f392c44",
+            "a61f433a275066b62903f4c27df42b5c8ffca09b"
+        ]
+    ]
+}

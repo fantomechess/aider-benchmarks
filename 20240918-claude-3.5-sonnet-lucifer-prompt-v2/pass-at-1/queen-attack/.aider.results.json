@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/queen-attack",
+    "testcase": "queen-attack",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.0176889,
+    "duration": 11.796904802322388,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "18dffcaa1f219b92ff662adf28143ab27aff9ec9",
+            "5c4aec4b75e7e1bcf3eb8e3d593ede4f6cfcb855"
+        ]
+    ]
+}

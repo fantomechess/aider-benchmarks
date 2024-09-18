@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/prime-factors",
+    "testcase": "prime-factors",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.015299400000000001,
+    "duration": 10.602895498275757,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "ec27712f515dadeb8c08993a6deef44d40f08d9d",
+            "f0814706f04cbeed1af595d5b147f351de5a2520"
+        ]
+    ]
+}

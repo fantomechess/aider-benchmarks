@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/zebra-puzzle",
+    "testcase": "zebra-puzzle",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.06349679999999999,
+    "duration": 50.534016609191895,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "8816e015323d0bd2a2c34b687e6913b3d3207615",
+            "34563310ff97e5f05569eb8ff8356719c084cf73"
+        ],
+        [
+            "5e9692c16ee8e94ac14e4666ee36468ccdfcbabb",
+            "8e330570638adea20b1f363c74b45ee6ed4627a1"
+        ]
+    ]
+}

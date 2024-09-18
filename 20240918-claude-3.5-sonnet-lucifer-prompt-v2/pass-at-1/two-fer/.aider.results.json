@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/two-fer",
+    "testcase": "two-fer",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.013203900000000001,
+    "duration": 10.247432708740234,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "970a93b9f1732f7992562fc4a891f36bd317acfd",
+            "8f5e7d62accebee19031abced7f8224bfe5ef838"
+        ]
+    ]
+}

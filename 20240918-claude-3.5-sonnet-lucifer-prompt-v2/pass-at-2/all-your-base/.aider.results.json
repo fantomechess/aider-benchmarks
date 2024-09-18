@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/all-your-base",
+    "testcase": "all-your-base",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.03863205,
+    "duration": 20.870989084243774,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "ccd25094a53063da662aad269fb360cfd66e05c8",
+            "091de7735f7c98edf01681f26bd03f67e8cd0f95"
+        ],
+        [
+            "cea93dae2154b4f1e17db579d212b83768e8e141",
+            "58d07ae6b3357ed5377139136adf215ea6728a07"
+        ]
+    ]
+}

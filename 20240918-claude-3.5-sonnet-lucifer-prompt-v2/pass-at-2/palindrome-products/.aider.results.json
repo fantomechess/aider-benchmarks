@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/palindrome-products",
+    "testcase": "palindrome-products",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.05294955,
+    "duration": 28.730191469192505,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "6f81c37a7194ee9401835a50308c27752d3f184c",
+            "3f8405f54dbd0549d0c20adc3a3fe66af8ca9114"
+        ],
+        [
+            "d1a6658e6047959017256e1d7aa26548f72ccf3a",
+            "6e841632c9b8c021fc2921f774a87b85eb147d9a"
+        ]
+    ]
+}

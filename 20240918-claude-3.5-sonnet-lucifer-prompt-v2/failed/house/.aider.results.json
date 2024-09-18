@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/house",
+    "testcase": "house",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.04313355,
+    "duration": 23.915162563323975,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "ab62a78bb5af4ae8272ac1c8c1c51f304832a35d",
+            "186667b79a8de85f3aab33000d785076472fc5c3"
+        ],
+        [
+            "e34dc4f63775528e73566ef738e04986dc064340",
+            "1c88a1205fb7ce6c1786fe99b2cda7c478cfa073"
+        ]
+    ]
+}

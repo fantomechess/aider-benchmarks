@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/rail-fence-cipher",
+    "testcase": "rail-fence-cipher",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0492123,
+    "duration": 29.152073621749878,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "dfd93982861e4c5e6a6f3ecfd711719ae0cea38d",
+            "be6fd6834bff5a074bd008fd5355d75c5725ed49"
+        ],
+        [
+            "de37f00a538838dfe37563e8e31efe6642813e1e",
+            "82229e6198bd894be3d6121bc331301c0bd26896"
+        ]
+    ]
+}

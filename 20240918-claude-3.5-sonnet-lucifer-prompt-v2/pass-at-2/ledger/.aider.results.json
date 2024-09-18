@@ -1,0 +1,35 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/ledger",
+    "testcase": "ledger",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.10994369999999999,
+    "duration": 64.12215733528137,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 1,
+    "num_user_asks": 1,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 1,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "c8c02a0abc35a403bcb0d02b04b9b18dfb64824d",
+            "a932e98ba5e694f962ec75f0201f7aa6d6400ae1"
+        ],
+        [
+            "6a8f71e94bf52bed165743b6e7e5ad2a61675954",
+            "ae736214ff9bb24e94a09d03ebe752b20e952c1c"
+        ],
+        [
+            "e6dbdac882a43706d2526a189666086f2aa3e682",
+            "d8560f9f635cd7f03215590f37bdcb945ba21193"
+        ]
+    ]
+}

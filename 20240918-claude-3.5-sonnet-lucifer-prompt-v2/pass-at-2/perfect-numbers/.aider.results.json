@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/perfect-numbers",
+    "testcase": "perfect-numbers",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.044899800000000004,
+    "duration": 27.038769960403442,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e2bdddc18bcf050c35d710531716b1a26c50c8e8",
+            "80db82dab875ae3e8b533906596ef9deb95e3176"
+        ],
+        [
+            "134d7e633abb403258c9e410166d673a84b3c776",
+            "9750aa8562153caed103144ff3c6c354bbd53837"
+        ]
+    ]
+}

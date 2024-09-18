@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/dominoes",
+    "testcase": "dominoes",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.047454300000000005,
+    "duration": 29.761411428451538,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "ace374d12200df24c0f4e5f293863f4935d148a2",
+            "61a2145012587607617315f79ca6a827316d5f7e"
+        ],
+        [
+            "c5686d7dfdae28635f99d1a7d94604536acf519f",
+            "38f0f8b253f55086b59e81a6ceaeb586eae88f16"
+        ]
+    ]
+}

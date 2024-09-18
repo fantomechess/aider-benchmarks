@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/word-search",
+    "testcase": "word-search",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0528918,
+    "duration": 34.20719122886658,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "29ab1e978470bec2702e52ebe8381a91537ff910",
+            "30718f93c802cfe99dc066cf84d0cb84dfef2c5d"
+        ],
+        [
+            "c0df955ce86acb938560638622609ea0bac59b21",
+            "93e62f44c0d6d4110f10754bc9002350fd819857"
+        ]
+    ]
+}

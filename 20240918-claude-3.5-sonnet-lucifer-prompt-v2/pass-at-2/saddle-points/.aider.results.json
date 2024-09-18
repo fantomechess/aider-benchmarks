@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/saddle-points",
+    "testcase": "saddle-points",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.04157280000000001,
+    "duration": 25.152926206588745,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "f52aa273ded819ba42dcce330582f38e1275baf2",
+            "6edfde4d013d8c33e72fa307335f375d7055fd9d"
+        ],
+        [
+            "254edc3085cda0bfa4491f8301f57807c70478ba",
+            "c47ebcc7566106bdc61a19621a86e952b9eb33bc"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/zipper",
+    "testcase": "zipper",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.08786655,
+    "duration": 52.637481451034546,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e14a64d7b8ec88ca09670e7bf6f0dcbf9316632a",
+            "7c3128e3ba6fee95d1a645513a5ed9187f06a08e"
+        ],
+        [
+            "5ca7e4a413d054de2f6cdc4241a58417a8f6e1c4",
+            "e93a9bb5411b67e63a5c32bddcd9479ad378f945"
+        ]
+    ]
+}

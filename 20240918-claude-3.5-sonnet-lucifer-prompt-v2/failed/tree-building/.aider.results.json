@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/tree-building",
+    "testcase": "tree-building",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.09349320000000001,
+    "duration": 98.01992106437683,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "4cd82ead2f339ce7063d7f6892d02a2a52879ef8",
+            "d9e099392bb245a19202ea09453480afcf4da339"
+        ],
+        [
+            "6cfb2435fda3071b0eb665c6aee1fb78d89dfb82",
+            "0b0ba71298b9d6b28a82f676937c3c2202cae76b"
+        ]
+    ]
+}

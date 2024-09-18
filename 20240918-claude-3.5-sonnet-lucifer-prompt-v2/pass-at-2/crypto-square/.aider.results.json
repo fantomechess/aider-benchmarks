@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/crypto-square",
+    "testcase": "crypto-square",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.0385758,
+    "duration": 23.663009881973267,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d89558be6e31e869f5bcb84bd4cbe294e858fcac",
+            "9b8adfc77c01a924413abb1677588bda9eef6df0"
+        ],
+        [
+            "488568db0b85a0194108d525ad2c4a8027ded3b9",
+            "4b6b64e7133ddea0b3b6eeadf747e4dd6b489b30"
+        ]
+    ]
+}

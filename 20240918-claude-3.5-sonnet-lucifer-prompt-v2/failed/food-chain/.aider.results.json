@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/food-chain",
+    "testcase": "food-chain",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.05766855,
+    "duration": 34.38192963600159,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "970d337b6389321d12a78e5995f5e59e78bbcc7f",
+            "e3897241ccb48cc6c38dc4f95adf538a6d275be0"
+        ],
+        [
+            "f908aa13526df26bf33e73bd0b5d3c189fa1b332",
+            "032352c3eb4419de54293c57f23fd2f14fbf7afa"
+        ]
+    ]
+}

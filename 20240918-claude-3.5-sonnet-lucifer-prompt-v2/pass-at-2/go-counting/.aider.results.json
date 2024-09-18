@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-18-13-00-15--claude-sonnet-test/go-counting",
+    "testcase": "go-counting",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.044379299999999997,
+    "duration": 32.21203947067261,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "ff010b8263c552437c9c4cf4045a0708d289ecc7",
+            "502239042e5d033c70bb9a06f73b60d5c7666605"
+        ],
+        [
+            "8fc4844699545956b3c5822550fef91e97adc508",
+            "fa8c6c3b2bf67881422014a02b9889a4d7f3a988"
+        ]
+    ]
+}
