@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/twelve-days",
+    "testcase": "twelve-days",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.02337525,
+    "duration": 15.873246908187866,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "de9c27efc227ced6554e12ef57b3b69c54331c10",
+            "aad9362112902ceb385ce47dd0e71b5246d3bc61"
+        ]
+    ]
+}

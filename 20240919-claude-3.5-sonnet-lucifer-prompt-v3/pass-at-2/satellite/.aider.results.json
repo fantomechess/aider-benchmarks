@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/satellite",
+    "testcase": "satellite",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.05896875,
+    "duration": 36.482274770736694,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d18b595b561c20a71eb319b69c8aabefe67ba34e",
+            "1aeef664334f08fedf7ce7e928c8f72af0d3d26c"
+        ],
+        [
+            "1bc57111c0fda199fca0046855006a26471be8bf",
+            "e90ee3867fad7b1cec57da9d69af065f427c223a"
+        ]
+    ]
+}

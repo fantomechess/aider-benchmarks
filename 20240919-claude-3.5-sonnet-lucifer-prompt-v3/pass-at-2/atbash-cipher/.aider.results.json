@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/atbash-cipher",
+    "testcase": "atbash-cipher",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.1058715,
+    "duration": 45.578001976013184,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d369af47dc831424bd6000aa9de67a8aa30e960f",
+            "843fb8b3d96b7a59953848db8d6cbc4e76047637"
+        ],
+        [
+            "0650aa2a22e952ef3b9606f420d0641f4e0595f9",
+            "5ddb8b15c185c3526e53dc5e80312a1745726f28"
+        ]
+    ]
+}

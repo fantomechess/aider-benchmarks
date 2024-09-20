@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/resistor-color-trio",
+    "testcase": "resistor-color-trio",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.04884675,
+    "duration": 29.902830123901367,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "5bceaee267d4df72638fa2db32014b8cd7f3d46f",
+            "2dedc18445ecf258c1ba7270f408ea25f4034d11"
+        ],
+        [
+            "3d781f165cbd24b2aec173d448574979318ccdcb",
+            "5b20d644a4a46c8f5a57c4735a62d58e04893750"
+        ]
+    ]
+}

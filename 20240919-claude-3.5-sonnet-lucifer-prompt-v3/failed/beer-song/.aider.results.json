@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/beer-song",
+    "testcase": "beer-song",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.06398925,
+    "duration": 38.187811613082886,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "57b2cde076865a65e7d222caca322977e24957ad",
+            "8009fded1fedf549f46e585fb2ff7581ddfac42e"
+        ],
+        [
+            "52968a3d389d7e5330ce86316d608946e392c38c",
+            "8cafafc15766340abb3f02ce88a829e32a22a5b5"
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/trinary",
+    "testcase": "trinary",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.017913000000000002,
+    "duration": 13.710707426071167,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "00edf8feb7b06fd455d2a41d877fc62eab7548b4",
+            "ef4c2a74c1d46976f56d032e4845eca09de19630"
+        ]
+    ]
+}

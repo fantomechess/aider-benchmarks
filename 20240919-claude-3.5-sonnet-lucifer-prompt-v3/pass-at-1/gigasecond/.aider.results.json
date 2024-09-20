@@ -1,0 +1,26 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/gigasecond",
+    "testcase": "gigasecond",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        true
+    ],
+    "cost": 0.06579675,
+    "duration": 16.094263792037964,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "911e4a692e46ca85ce9278edd2a7c628262e1267",
+            "8a80ad4e5c1853279b5d947da00fd0b8eb168a3b"
+        ]
+    ]
+}

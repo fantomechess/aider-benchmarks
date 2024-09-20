@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/sgf-parsing",
+    "testcase": "sgf-parsing",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.07200975,
+    "duration": 50.19589447975159,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "e8c904a40db46df99b1078a5492f8fea0220aa6e",
+            "358edaac938bac306ccccebc66bd8e81dc38242d"
+        ],
+        [
+            "dc37409e871f625b55e26ef72a00fc6ad8431998",
+            "738176217652af7e98736972173c225f18f5350d"
+        ]
+    ]
+}

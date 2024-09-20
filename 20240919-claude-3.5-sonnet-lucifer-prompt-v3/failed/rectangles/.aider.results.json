@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/rectangles",
+    "testcase": "rectangles",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.05675025,
+    "duration": 35.714515686035156,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "19a832abb83962ca1da24cc8492d494b9f6ecaa4",
+            "18303b4e6fe8367745c3709c72d71d19942ddf14"
+        ],
+        [
+            "24651b22f53bbe8280c1b5eaea4a7b3c06e19a06",
+            "d72273fa57e57aad10e273e0a1e8f635de3eda93"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/tournament",
+    "testcase": "tournament",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.048344250000000005,
+    "duration": 27.20578408241272,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "dda54384190e1ceb5e66443205c0208a5ac9f822",
+            "ab978ed7079b8fcdfa26bd84295e0a88dd9fad23"
+        ],
+        [
+            "eedad8989463b145be6678ffc72041b5ad833fa2",
+            "6f74e8e5f5b98510768cd2ea73bbfbe386c83086"
+        ]
+    ]
+}

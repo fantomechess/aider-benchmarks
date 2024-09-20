@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/pig-latin",
+    "testcase": "pig-latin",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.058548750000000004,
+    "duration": 38.602243423461914,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "9e9460e5ab6abb9a03d54d08799fd39ffd8a0674",
+            "4a47fd2dd3ce62f5e6a4692fb77c8a9154ec65ff"
+        ],
+        [
+            "ee478736aceb2bf2de398c228a335356a7cebc56",
+            "4d58d374d6ec2f17e05d12ad9a19887d0e2b283f"
+        ]
+    ]
+}

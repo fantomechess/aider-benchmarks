@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/point-mutations",
+    "testcase": "point-mutations",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.04045725,
+    "duration": 23.703619241714478,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "3d0dfbf8135a7699cf88a173dd8cd48b6dd15ff5",
+            "03c8b7822444af62c009f43af5abb5d6fb0ea041"
+        ],
+        [
+            "ad9860d44af1e553a4de9c252f86f7cf7421c623",
+            "f6fcd5b4da2ea49e4d129550bbdc23bf81686982"
+        ]
+    ]
+}

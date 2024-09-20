@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/two-bucket",
+    "testcase": "two-bucket",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.06539325,
+    "duration": 49.54175305366516,
+    "test_timeouts": 1,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d4e53e1dff3f21b8a839ef75e4f40479f5e208b5",
+            "8d1770164b9b7d13fa8541637dc1803fac99e721"
+        ],
+        [
+            "e6a1666f9936ba2ce7ef43e1d43e967391128fe7",
+            "13b041a9fe052a17ab0b37645979c1cb0e966f4a"
+        ]
+    ]
+}

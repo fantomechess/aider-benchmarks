@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/pythagorean-triplet",
+    "testcase": "pythagorean-triplet",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.04782675,
+    "duration": 30.2549889087677,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "dbba96f3a927c4bb7fdd8696ebd9251e81376a34",
+            "cce3ccd7db7bbbc79a22b79270804761672d1f5b"
+        ],
+        [
+            "3f5d62f50a121ee68f0b616bdb0b5e668e72344c",
+            "1223d965bebe8a6d486daf521b2466b394a3c4ba"
+        ]
+    ]
+}

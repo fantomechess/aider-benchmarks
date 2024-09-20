@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/largest-series-product",
+    "testcase": "largest-series-product",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.08961375,
+    "duration": 33.07493877410889,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "369e7ba517312785f699e8566b7b707a83132b3f",
+            "4f069676ea0f1da992b9f92386b98252b424e828"
+        ],
+        [
+            "6745631ad6c1879478b05d1a3be7b7d2a337ee42",
+            "c52ab5c3ec2ab7bdc6db7672da238628a65abe05"
+        ]
+    ]
+}

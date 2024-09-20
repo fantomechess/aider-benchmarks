@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/forth",
+    "testcase": "forth",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0971535,
+    "duration": 67.91410541534424,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "1867c1a1d7f82e9b697a43d15a5dae99e420924b",
+            "374638fdabc7263f026b1a100764614b30b418d3"
+        ],
+        [
+            "7d88d4a432570c448ca400181b1caec3b6ef6d5f",
+            "cbbf311da1c1fe031515dcc5f4ddc24ae946abe6"
+        ]
+    ]
+}

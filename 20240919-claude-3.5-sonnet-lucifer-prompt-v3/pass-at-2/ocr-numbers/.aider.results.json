@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/ocr-numbers",
+    "testcase": "ocr-numbers",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        true
+    ],
+    "cost": 0.11654699999999998,
+    "duration": 52.1182758808136,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "8c0e6d638efd36bf2689b8e474f9f66856716941",
+            "5f8880b4ca9153411a10f25d41645199365f8dd2"
+        ],
+        [
+            "804802a5765804459a700553fbaa85a2c781a815",
+            "0c9c69987bc8d50afe60536dc67e0103ee0b9ed5"
+        ]
+    ]
+}

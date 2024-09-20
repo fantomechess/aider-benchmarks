@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/bottle-song",
+    "testcase": "bottle-song",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0752475,
+    "duration": 37.34892296791077,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "2d5f1f25d6c0cb1e038a4d13989fc8c6c30732a5",
+            "d40dfa381608fe90dae080f0fce9bfb1344d4b32"
+        ],
+        [
+            "0881f870b45c4318570b674c417e1e9a4b95f35b",
+            "f43b4a4d93d980c34ccd225754445b69a0212a4d"
+        ]
+    ]
+}

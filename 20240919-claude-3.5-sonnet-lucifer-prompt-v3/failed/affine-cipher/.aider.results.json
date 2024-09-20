@@ -1,0 +1,31 @@
+{
+    "testdir": "/benchmarks/2024-09-20-01-31-20--claude-sonnet-test/affine-cipher",
+    "testcase": "affine-cipher",
+    "model": "anthropic/claude-3-5-sonnet-20240620",
+    "edit_format": "diff",
+    "tests_outcomes": [
+        false,
+        false
+    ],
+    "cost": 0.0566595,
+    "duration": 38.38481426239014,
+    "test_timeouts": 0,
+    "commit_hash": "e603714-dirty",
+    "num_error_outputs": 0,
+    "num_user_asks": 0,
+    "num_exhausted_context_windows": 0,
+    "num_malformed_responses": 0,
+    "syntax_errors": 0,
+    "indentation_errors": 0,
+    "lazy_comments": 0,
+    "chat_hashes": [
+        [
+            "d4722fad1c8b3dbea7c87a711240265e8a2bfd66",
+            "3d932b8f8aa5932f2e3204c443ac123b132eaa46"
+        ],
+        [
+            "3d976e31b188cfb4e570a2db56f38deaf587e42e",
+            "8d9f88b214eb8ee1d0722be86997af91c4fcf94d"
+        ]
+    ]
+}

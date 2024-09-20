@@ -1,0 +1,25 @@
+────────────────────────────────────────────────────────────────────────────────────────── /benchmarks/2024-09-20-01-31-20--claude-sonnet-test ───────────────────────────────────────────────────────────────────────────────────────────
+- dirname: 2024-09-20-01-31-20--claude-sonnet-test
+  test_cases: 133
+  model: anthropic/claude-3-5-sonnet-20240620
+  edit_format: diff
+  commit_hash: e603714-dirty
+  pass_rate_1: 51.9
+  pass_rate_2: 73.7
+  percent_cases_well_formed: 98.5
+  error_outputs: 5
+  num_malformed_responses: 5
+  num_with_malformed_responses: 2
+  user_asks: 0
+  lazy_comments: 0
+  syntax_errors: 0
+  indentation_errors: 0
+  exhausted_context_windows: 0
+  test_timeouts: 1
+  command: aider --model anthropic/claude-3-5-sonnet-20240620
+  date: 2024-09-20
+  versions: 0.56.1.dev
+  seconds_per_case: 28.9
+  total_cost: 6.8101
+
+costs: $0.0512/test-case, $6.81 total, $6.81 projected
